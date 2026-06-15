@@ -158,6 +158,6 @@ Desenvolver uma solução escalável de inteligência imobiliária que permita i
 
 Engenheiro de Dados especializado em soluções utilizando Google Cloud Platform.
 
-LinkedIn: https://www.linkedin.com/in/guilherme-angioletto/
+LinkedIn: www.linkedin.com/in/guilherme-angioletto-816479160
 
 GitHub: https://github.com/1angioletto
