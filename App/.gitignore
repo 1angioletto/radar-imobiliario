@@ -5,11 +5,3 @@ venv/
 .venv/
 .streamlit/secrets.toml
 *:Zone.Identifier
-
-*.csv
-*.xlsx
-*.parquet
-output/
-pipelines/coletores/output/
-logs/
-html_debug/
