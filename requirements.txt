@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+google-cloud-bigquery
+db-dtypes
+pyarrow
+google-cloud-aiplatform
+google-cloud-pubsub
